@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "ServerRoomSensor01",
+    "Location": "Data Centre Room A",
+    "MinValue": 22,
+    "MaxValue": 24
+  },
+  {
+    "Name": "ServerRoomSensor02",
+    "Location": "Data Centre Room B",
+    "MinValue": 18,
+    "MaxValue": 26
+  },
+  {
+    "Name": "ServerRoomSensor03",
+    "Location": "Main Hall",
+    "MinValue": 20,
+    "MaxValue": 30
+  }
+]
