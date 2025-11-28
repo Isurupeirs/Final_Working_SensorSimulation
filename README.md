@@ -83,6 +83,9 @@ Flags unusual readings:
 
 ### **Using Terminal**
 
+1. cd ".../"
+2. dotnet run 
+
 ---
 
 ## 📝 sensorConfig.json Example  
